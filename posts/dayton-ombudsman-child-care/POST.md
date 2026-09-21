@@ -1,6 +1,6 @@
 ---
 title: The help desk for people who really need help
-subtitle: Dayton has one of the oldest ombudsman offices in the country, and nearly 30 years of records kept by hand. The number one thing the office now investigates is child care.
+subtitle: Dayton has one of the oldest ombudsman offices in the country, and nearly 30 years of records kept by hand. The number one thing the office currently investigates is child care.
 slug: dayton-ombudsman-child-care
 date: 2026-09-22
 section: Data 4 Thought
@@ -22,7 +22,7 @@ Are you familiar with what an ombudsman does?
 
 If you are like me, you may be familiar with the term, but if pressed on exactly what it does, crickets.
 
-There's no shame in that. It's not our fault. I went looking for the numbers, because I wanted to open this piece with them. How many ombudsman offices did this country have? How many are left? What share of us still live somewhere with one? I could not find the answers. Hawaii opened the first office in 1967. A few cities followed in 1970 and 1971, Dayton among them. After that the trail goes cold. The U.S. Ombudsman Association, the group these offices belong to, says the number of new ones is small. I found no published count of how many have closed, and no figure for how many people still have one nearby.
+There's no shame in that. It's not our fault. I went looking for the numbers, because I wanted to open this piece with them. How many ombudsman offices did this country have? How many are left? What share of us still live somewhere with one? I could not find the answers. Hawaii opened the first office in 1967. A few cities followed in 1970 and 1971, Dayton among them. After that the trail goes cold. The U.S. Ombudsman Association, the professional association these offices belong to, says the number of new ones is small. I found no published count of how many have closed, and no figure for how many people still have one nearby.
 
 That absence is worth sitting with. We count a lot of things in this country. This does not appear to be one of them. An office set up to help people who struggle to be heard has itself gone unmeasured, which, to me, speaks volumes about America.
 
@@ -32,9 +32,9 @@ One difference from the concierge desk. The ombudsman is neutral. They are not b
 
 In short, the ombudsman's office is the help desk for people who really need help. And the fact that these offices live in obscurity is likely because these people who are really struggling to navigate the complexity of social benefits programs also live in obscurity.
 
-But the offices that exist toil away to help people each and every day. It turns out I have connections to Dayton's ombudsman office, so I have learned much about its inspirational work over the past few weeks. Dayton opened its office in 1971, one of the first cities in the country to do it. And more importantly for me, it has nearly 30 years of data on the calls it has received, meticulously documented by hand as if it knew one day technology would catch up to its processes, and give it the ability to tell the stories of the Dayton community.
+But the offices that exist toil away to help people each and every day. It turns out I have connections to Dayton's ombudsman office, so I have learned much about its inspirational work over the past few weeks. Dayton opened its office in 1971, one of the first cities and counties in the country to do it. And more importantly for me, it has nearly 30 years of data on the calls it has received, meticulously documented by hand as if it knew one day technology would catch up to its processes, and give it the ability to tell the stories of the Dayton community.
 
-And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: child care.
+And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: access to child care.
 
 And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
 
@@ -42,7 +42,7 @@ And while I was working on this, Child Care Aware of America put out its 2025 pr
 
 *Dayton Ombudsman Office records, 1997 to June 2026, shared with permission. 2026 covers January to June only.*
 
-Now, to be clear, these are usually not calls complaining about a provider. Rather, these are calls trying to understand how to qualify for subsidies offered by the state. You see, back in 2023 child care subsidies were actually expanded in Ohio. That's a good thing on paper. But when you dig into it, the expansion was very small. It wasn't designed to get to all the people that could technically now qualify. But what it did do (in my view) was likely give people hope that they could qualify. And so, my best reconstruction of what happened was that the Montgomery County Department of Job and Family Services (JFS) was likely inundated with calls. I can't verify this since I don't have their data. But the ombudsman acts as a pressure release valve for JFS. If their calls spiked, it's likely that they were spilling over from JFS.
+Now, to be clear, these are usually not calls complaining about a provider. Rather, these are calls trying to understand how to qualify for subsidies offered by the state. You see, back in 2023 child care subsidies were actually expanded in Ohio. That's a good thing on paper. But when you dig into it, the expansion was very small. It wasn't designed to get to all the people that could technically now qualify. But what it did do (in my view) was likely give people hope that they could qualify. And so, my best reconstruction of what happened was that the Montgomery County Department of Job and Family Services (JFS) was likely inundated with calls. I can't verify this since I don't have their data. But people do not go to the ombudsman instead of JFS. They go after, once the official process has not worked for them. So the office does not take the overflow off the county's hands. It sees what the official process left behind, which is how much need went unmet.
 
 This is quite concerning given what is now coming. Last year, the One Big Beautiful Bill (OBBB) was passed, clamping down on all sorts of social benefits (SNAP, Medicaid, and by extension child care, which in Ohio you can qualify for through SNAP or work requirements). The way this bill clamps down on benefits is by making the recertification and work requirement process much more strict. Think about the logical outcome. Process gets more complicated. People can't follow it. People call JFS to ask what to do. If JFS doesn't have the bandwidth to address the issues (their budget for running these programs went up in 2024, and was flat the year after) then the queue grows. Unresolved problems increase. People lose their benefits not because they don't qualify, but because they can't figure out the maze of new requirements and paperwork.
 

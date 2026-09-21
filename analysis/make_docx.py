@@ -25,16 +25,17 @@ FLAG = RGBColor(0x8A, 0x55, 0x10)
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 ASKS = [
-    ("The founding.", "We say the office opened in 1971 and was one of the first cities in "
-     "the country to do it. We took out an earlier line calling it the second oldest behind "
+    ("The founding.", "We say the office opened in 1971 and was one of the first cities and "
+     "counties in the country to do it. We took out an earlier line calling it the second oldest behind "
      "Seattle, because Jamestown, New York and Seattle both appear to predate it. If your "
      "office has a specific claim it stands behind, tell us and we will use it."),
     ("What the child care calls are about.", "We describe them as people trying to work out "
      "how to qualify for state subsidies, not complaints about a provider. That came from "
      "what you told us."),
     ("The description of Job and Family Services.", "We say the county agency was likely "
-     "overwhelmed with calls and that your office absorbs the overflow. That is Eric's "
-     "reconstruction, and it is labeled as such, but we do not want to put words in your mouth."),
+     "overwhelmed with calls. Following your note, the piece no longer says your office "
+     "absorbs the overflow. It now says people reach you after the official process has not "
+     "worked, so what you see is how much need went unmet."),
     ("The numbers in the chart.", "Child care is 18.2 percent of the cases your office "
      "investigated in the first half of 2026, up from 1.9 percent in 2020. We used your "
      "published monthly totals as the denominator and treated any withheld count as unknown "

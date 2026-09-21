@@ -6,12 +6,12 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: dayton-ombudsman-child-care
-Step: 2e complete, holding before 2f
+Step: 2b reopened for the office's edits, then forward to 2f
 Since: 2026-09-21
 
-HOLD: waiting on the Ombudsman Office's review comments. Nothing goes to Prismic until
-Eric has them. When they arrive, reopen the step the change lands in (/step back 2b for
-wording, 2a for structure) and walk forward from there.
+The office returned edits on 2026-09-21. All five tracked changes applied, plus a
+rewrite answering their comment on the overflow framing. 2c through 2e need
+re-confirming before 2f.
 
 ## Steps
 
@@ -28,7 +28,9 @@ wording, 2a for structure) and walk forward from there.
 
 ## Stale
 
-None.
+- 2c slice markup, 2026-09-21: text changed after the office's review. Re-run and re-confirm.
+- 2d hero, 2026-09-21: unchanged in substance, but re-confirm after 2c.
+- 2e SEO, 2026-09-21: subtitle wording changed, so the description should be re-checked.
 
 ## Log
 
@@ -63,3 +65,8 @@ None.
 - 2026-09-21 A Common questions FAQ section was proposed for rich results and rejected: the
   office is mid-review and Eric did not want to send new language back to them. Accepted SEO
   cost.
+- 2026-09-21 Ombudsman Office returned dayton-ombudsman-child-care-EDIT.docx with five
+  tracked changes from Nick Hrkman and one comment. All applied. The comment disputed the
+  pressure-release-valve framing: complainants go through the official process before
+  reaching the ombudsman, so the office does not absorb overflow, it sees unmet need.
+  Rewrote that passage accordingly. Step back to 2b; 2c, 2d and 2e marked stale.
