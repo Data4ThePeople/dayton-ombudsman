@@ -8,3 +8,6 @@ DATASETS.md
 __pycache__/
 *.pyc
 .env
+
+# generated review docs, rebuild with analysis/make_docx.py
+*.docx
