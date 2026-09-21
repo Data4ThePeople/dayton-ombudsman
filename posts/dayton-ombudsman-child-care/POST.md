@@ -36,7 +36,7 @@ But the offices that exist toil away to help people each and every day. It turns
 
 And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: child care.
 
-And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. And 20 percent of the children in Montgomery County live below the poverty line. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
+And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
 
 ![Line chart. Child care as a share of the cases the Dayton ombudsman investigated, 1997 to June 2026. The line stays under 2 percent until 2012, then drifts up. It dips to 1.9 percent in 2020, climbs to 12.0 percent in 2023, and reaches 18.2 percent in the first half of 2026. A second line shows child care as a share of everything that came in, cases and referral calls together. It has the same shape but sits lower, and ends at 8.9 percent.](images/01-child-care-share.png)
 
@@ -75,7 +75,6 @@ On what child care costs:
 
 - [The price of child care in 2025](https://info.childcareaware.org/price-and-supply-2025), Child Care Aware of America
 - [Affordability analysis, state tables](https://info.childcareaware.org/hubfs/Affordability_Analysis_2024.pdf), Child Care Aware of America, for Ohio's $13,780 infant center price and the single-parent income comparison, both from its January 2025 survey of state networks
-- [Small Area Income and Poverty Estimates](https://www.census.gov/programs-surveys/saipe.html), U.S. Census Bureau, for the share of children in Montgomery County living below the poverty line in 2024
 
 On child care in Ohio:
 
