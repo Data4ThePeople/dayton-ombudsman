@@ -80,7 +80,7 @@
           },
           {
             "type": "paragraph",
-            "text": "And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. It is more than half of the federal poverty line for a family of three. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.",
+            "text": "And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. And 20 percent of the children in Montgomery County live below the poverty line. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.",
             "spans": [],
             "direction": "ltr"
           }
@@ -394,15 +394,15 @@
           },
           {
             "type": "list-item",
-            "text": "Poverty guidelines, U.S. Department of Health and Human Services, for the 2026 poverty line of $27,320 for a family of three",
+            "text": "Small Area Income and Poverty Estimates, U.S. Census Bureau, for the share of children in Montgomery County living below the poverty line in 2024",
             "spans": [
               {
                 "start": 0,
-                "end": 18,
+                "end": 39,
                 "type": "hyperlink",
                 "data": {
                   "link_type": "Web",
-                  "url": "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines",
+                  "url": "https://www.census.gov/programs-surveys/saipe.html",
                   "target": "_blank"
                 }
               }
