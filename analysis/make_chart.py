@@ -14,7 +14,7 @@ from matplotlib.ticker import FuncFormatter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "..", "data")
-OUT = os.path.join(HERE, "..", "charts")
+OUT = os.path.join(HERE, "..", "posts", "dayton-ombudsman-child-care", "images")
 
 BG, FG = "#181A1B", "#BBBDC0"
 CASES, ALL = "#3f80c2", "#c2872c"          # validated against BG for CVD + contrast
