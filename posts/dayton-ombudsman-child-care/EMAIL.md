@@ -3,7 +3,7 @@
 Post URL: https://www.data4thepeople.com/p/dayton-ombudsman-child-care
 
 ```
-Subject:  Help desk for people who really need it
+Subject:  The help desk for people who really need help
 Preview:  Nearly 30 years of records kept by hand. Child care is now the top complaint.
 ```
 

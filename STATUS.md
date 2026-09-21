@@ -80,3 +80,5 @@ None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office'
   people reach the ombudsman after the official process has failed them. Draft updated in
   place again. Step 2f done. Step 2g opened.
 - 2026-09-21 Step 2g: EMAIL.md drafted from the post text. Awaiting approve or reject.
+- 2026-09-21 Email subject set to the full post title, 45 characters. Over the 40-character
+  house cap, chosen deliberately by Eric. Preview carries child care instead.
