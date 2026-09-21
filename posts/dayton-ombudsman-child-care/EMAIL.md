@@ -50,7 +50,7 @@ It is not hard to see why they need help paying for it. In Ohio, infant care in 
 
 And this is before the hard part. The One Big Beautiful Bill makes recertification and work requirements much stricter. The process gets more complicated, people can't follow it, and they lose benefits they still qualify for.
 
-So who will be there to help? “Say, isn’t that the Dayton Ombudsman?”
+So who will be there to help? “Say, isn’t that Dayton’s ombudsman?”
 ```
 
 ## 6. Call to action
