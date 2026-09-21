@@ -1,0 +1,10 @@
+# Embargoed: this data is not cleared for public release yet
+data/
+DATASETS.md
+
+.DS_Store
+.idea/
+.venv/
+__pycache__/
+*.pyc
+.env
