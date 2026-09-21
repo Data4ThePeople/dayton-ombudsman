@@ -44,13 +44,13 @@ Line chart. Child care as a share of the cases the Dayton ombudsman investigated
 ```
 Why a slap in the face? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office currently investigates: access to child care.
 
-These are usually not calls complaining about a provider. They are calls from people trying to understand how to qualify for subsidies offered by the state. Meanwhile, as I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home.
+These are not calls complaining about a daycare. They are calls from people trying to work out how to qualify for the state's child care subsidy. They reach the ombudsman after the official process has already failed them.
 
-I can't verify what happened inside the county agency, because I don't have their data. But I do have the ombudsman's data. People reach that office after the official process has failed them, so a rise in calls is a sign that the process for getting answers about eligibility isn't working as designed.
+It is not hard to see why they need help paying for it. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home.
 
-And this is before the hard part. The One Big Beautiful Bill makes recertification and work requirements much stricter. Think about the logical outcome. The process gets more complicated. People can't follow it. They call the county to ask what to do, and the queue grows. People lose their benefits not because they don't qualify, but because they can't figure out the maze of new requirements and paperwork.
+And this is before the hard part. The One Big Beautiful Bill makes recertification and work requirements much stricter. The process gets more complicated, people can't follow it, and they lose benefits they still qualify for.
 
-And who is able to offer assistance to these people? The ombudsman. There is one more thing I went looking for and could not find, and it is the part of this story that unsettled me most.
+There is one more thing I went looking for and could not find, and it is the part of this story that unsettled me most.
 ```
 
 ## 6. Call to action

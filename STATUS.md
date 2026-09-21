@@ -86,3 +86,7 @@ None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office'
 - 2026-09-21 Email subject set to the full post title, 45 characters. Over the 40-character
   house cap, chosen deliberately by Eric. Preview carries child care instead.
 - 2026-09-21 Step 2g confirmed. Post complete.
+- 2026-09-21 EMAIL.md part two rewritten after approval. The first three paragraphs had
+  been stitched from post sentences that relied on context the email had cut, so one opened
+  by referring to a county agency the email never introduced. Now five short paragraphs,
+  one idea each.
