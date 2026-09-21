@@ -23,7 +23,7 @@ Publishing 2026-09-21 at 5:00pm EDT.
 | 2d | Hero 1680x1080 + alt text | 2026-09-21 | 1971 Journal Herald cartoon photographed in the office, cropped to the clipping and caption, padded on the house dark background. Alt text 340 characters. |
 | 2e | SEO | 2026-09-21 | meta_title 57 chars leading with child care, description 154, seven keywords, Article schema to house convention. FAQ section deliberately skipped; internal links dropped as disruptive. |
 | 2f | Pushed to Prismic (draft) | 2026-09-21 | Created draft arGYrREAACsAKuFq in the Migration Release. Tags and author empty. Not live. |
-| 2g | Mailchimp teaser | | |
+| 2g | Mailchimp teaser | | EMAIL.md drafted, awaiting approve or reject. Hero email JPG 264KB. |
 
 ## Stale
 
@@ -79,3 +79,4 @@ None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office'
 - 2026-09-21 JFS paragraph reworded once more to state the sequence the office asked for:
   people reach the ombudsman after the official process has failed them. Draft updated in
   place again. Step 2f done. Step 2g opened.
+- 2026-09-21 Step 2g: EMAIL.md drafted from the post text. Awaiting approve or reject.
