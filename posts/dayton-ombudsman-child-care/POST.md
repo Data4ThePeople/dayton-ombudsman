@@ -36,7 +36,7 @@ But the offices that exist toil away to help people each and every day. It turns
 
 And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: child care.
 
-And while I was working on this, Child Care Aware of America put out its 2025 price report. The national average price of child care is now $13,184 a year for one child. Set that against the federal poverty line, which in 2026 is $27,320 for a family of three. A family living right at that line, paying full price for one child, would spend 48 percent of everything they have on child care. And that price is an average across children of every age. Infant care in a center runs higher, about $15,000 to $15,700 a year, which works out to 55 to 58 percent. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
+And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. It is more than half of the federal poverty line for a family of three. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
 
 ![Line chart. Child care as a share of the cases the Dayton ombudsman investigated, 1997 to June 2026. The line stays under 2 percent until 2012, then drifts up. It dips to 1.9 percent in 2020, climbs to 12.0 percent in 2023, and reaches 18.2 percent in the first half of 2026. A second line shows child care as a share of everything that came in, cases and referral calls together. It has the same shape but sits lower, and ends at 8.9 percent.](images/01-child-care-share.png)
 
@@ -73,7 +73,8 @@ On the history, and on how few of these offices there are:
 
 On what child care costs:
 
-- [The price of child care in 2025](https://info.childcareaware.org/price-and-supply-2025), Child Care Aware of America, for the $13,184 national average and the infant care prices
+- [The price of child care in 2025](https://info.childcareaware.org/price-and-supply-2025), Child Care Aware of America
+- [Affordability analysis, state tables](https://info.childcareaware.org/hubfs/Affordability_Analysis_2024.pdf), Child Care Aware of America, for Ohio's $13,780 infant center price and the single-parent income comparison, both from its January 2025 survey of state networks
 - [Poverty guidelines](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines), U.S. Department of Health and Human Services, for the 2026 poverty line of $27,320 for a family of three
 
 On child care in Ohio:

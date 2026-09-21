@@ -80,7 +80,7 @@
           },
           {
             "type": "paragraph",
-            "text": "And while I was working on this, Child Care Aware of America put out its 2025 price report. The national average price of child care is now $13,184 a year for one child. Set that against the federal poverty line, which in 2026 is $27,320 for a family of three. A family living right at that line, paying full price for one child, would spend 48 percent of everything they have on child care. And that price is an average across children of every age. Infant care in a center runs higher, about $15,000 to $15,700 a year, which works out to 55 to 58 percent. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.",
+            "text": "And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. It is more than half of the federal poverty line for a family of three. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.",
             "spans": [],
             "direction": "ltr"
           }
@@ -360,7 +360,7 @@
           },
           {
             "type": "list-item",
-            "text": "The price of child care in 2025, Child Care Aware of America, for the $13,184 national average and the infant care prices",
+            "text": "The price of child care in 2025, Child Care Aware of America",
             "spans": [
               {
                 "start": 0,
@@ -369,6 +369,23 @@
                 "data": {
                   "link_type": "Web",
                   "url": "https://info.childcareaware.org/price-and-supply-2025",
+                  "target": "_blank"
+                }
+              }
+            ],
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "text": "Affordability analysis, state tables, Child Care Aware of America, for Ohio's $13,780 infant center price and the single-parent income comparison, both from its January 2025 survey of state networks",
+            "spans": [
+              {
+                "start": 0,
+                "end": 36,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://info.childcareaware.org/hubfs/Affordability_Analysis_2024.pdf",
                   "target": "_blank"
                 }
               }
