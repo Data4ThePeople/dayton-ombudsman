@@ -6,7 +6,7 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: dayton-ombudsman-child-care
-Step: 2c
+Step: 2d
 Since: 2026-09-21
 
 ## Steps
@@ -16,7 +16,7 @@ Since: 2026-09-21
 | 1  | Exploration and analysis | 2026-09-21 | One chart: child care share of cases and of all records, 1997–2026. DATASETS.md and the source coverage check were not run; Eric scoped step 1 to the single chart. |
 | 2a | Draft with brackets resolved | 2026-09-21 | Chart placed. Ohio expansion year filled in. Opening redrafted around the missing count of ombudsman offices. Edits 1-6 accepted. Budget line rewritten in plain language. Closing ask cut. |
 | 2b | Eric's edit, Claude's look-over | 2026-09-21 | Eight review items applied. Added a paragraph on the ombudsman being neutral, not an advocate, after research into the three ombuds types. Added a references section behind a divider. |
-| 2c | Slice markup | | |
+| 2c | Slice markup | 2026-09-21 | Converts to 7 slices. Alt text cut from 561 to 443 characters. |
 | 2d | Hero 1680x1080 + alt text | | |
 | 2e | SEO | | |
 | 2f | Pushed to Prismic (draft) | | |
@@ -46,3 +46,5 @@ None.
 - 2026-09-21 Researched ombuds types (ABA: classical, organizational, advocate). Dayton is
   classical, so it is neutral rather than an advocate. The post now says so.
 - 2026-09-21 Step 2b confirmed. Step 2c opened.
+- 2026-09-21 Step 2c confirmed. Step 2d opened. Hero is a 1971 Journal Herald cartoon
+  photographed in the office, used with permission Eric confirmed.

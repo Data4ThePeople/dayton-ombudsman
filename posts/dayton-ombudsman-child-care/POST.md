@@ -5,7 +5,7 @@ slug: dayton-ombudsman-child-care
 date: 2026-09-22
 section: Data 4 Thought
 hero: images/dayton-ombudsman-child-care-hero-1680x1080.png
-hero_alt:
+hero_alt: A yellowed newspaper cartoon from the Dayton Journal Herald. A knight in armor sits on a tired-looking horse in the middle of a city street. He holds a long lance upright and carries a shield marked with a large letter O. Beside him, a man leans out of a car window and stares. The caption below reads, “Say, isn’t that Dayton’s ombudsman?”
 meta_title:
 description:
 keywords:
