@@ -76,3 +76,6 @@ None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office'
 - 2026-09-21 Eric revised two paragraphs after the push. JFS paragraph now pivots on "I do
   have the ombudsman's data"; cost paragraph opens "Meanwhile". 2c, 2d, 2e re-run clean and
   the same draft arGYrREAACsAKuFq was updated in place, not duplicated.
+- 2026-09-21 JFS paragraph reworded once more to state the sequence the office asked for:
+  people reach the ombudsman after the official process has failed them. Draft updated in
+  place again. Step 2f done. Step 2g opened.
