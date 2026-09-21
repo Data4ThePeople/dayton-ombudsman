@@ -6,8 +6,12 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: dayton-ombudsman-child-care
-Step: 2e
+Step: 2e complete, holding before 2f
 Since: 2026-09-21
+
+HOLD: waiting on the Ombudsman Office's review comments. Nothing goes to Prismic until
+Eric has them. When they arrive, reopen the step the change lands in (/step back 2b for
+wording, 2a for structure) and walk forward from there.
 
 ## Steps
 
@@ -18,7 +22,7 @@ Since: 2026-09-21
 | 2b | Eric's edit, Claude's look-over | 2026-09-21 | Eight review items applied. Added a paragraph on the ombudsman being neutral, not an advocate, after research into the three ombuds types. Added a references section behind a divider. |
 | 2c | Slice markup | 2026-09-21 | Converts to 7 slices. Alt text cut from 561 to 443 characters. |
 | 2d | Hero 1680x1080 + alt text | 2026-09-21 | 1971 Journal Herald cartoon photographed in the office, cropped to the clipping and caption, padded on the house dark background. Alt text 340 characters. |
-| 2e | SEO | | |
+| 2e | SEO | 2026-09-21 | meta_title 57 chars leading with child care, description 154, seven keywords, Article schema to house convention. FAQ section deliberately skipped; internal links dropped as disruptive. |
 | 2f | Pushed to Prismic (draft) | | |
 | 2g | Mailchimp teaser | | |
 
@@ -54,6 +58,8 @@ None.
 - 2026-09-21 Review copy built two ways: an artifact page and a Word doc generated from
   POST.md by analysis/make_docx.py, since no node, pandoc or LibreOffice on this machine.
 - 2026-09-21 Step 2d confirmed. Step 2e opened.
+- 2026-09-21 Holding before 2f for the Ombudsman Office's review. Review copy sent two ways:
+  artifact page and a Word doc built from POST.md.
 - 2026-09-21 A Common questions FAQ section was proposed for rich results and rejected: the
   office is mid-review and Eric did not want to send new language back to them. Accepted SEO
   cost.
