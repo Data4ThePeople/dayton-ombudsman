@@ -6,12 +6,11 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: dayton-ombudsman-child-care
-Step: 2b reopened for the office's edits, then forward to 2f
+Step: 2f
 Since: 2026-09-21
 
-The office returned edits on 2026-09-21. All five tracked changes applied, plus a
-rewrite answering their comment on the overflow framing. 2c through 2e need
-re-confirming before 2f.
+The office's edits are in and 2c, 2d and 2e have been re-run and re-confirmed.
+Publishing 2026-09-21 at 5:00pm EDT.
 
 ## Steps
 
@@ -19,7 +18,7 @@ re-confirming before 2f.
 |---|---|---|---|
 | 1  | Exploration and analysis | 2026-09-21 | One chart: child care share of cases and of all records, 1997–2026. DATASETS.md and the source coverage check were not run; Eric scoped step 1 to the single chart. |
 | 2a | Draft with brackets resolved | 2026-09-21 | Chart placed. Ohio expansion year filled in. Opening redrafted around the missing count of ombudsman offices. Edits 1-6 accepted. Budget line rewritten in plain language. Closing ask cut. |
-| 2b | Eric's edit, Claude's look-over | 2026-09-21 | Eight review items applied. Added a paragraph on the ombudsman being neutral, not an advocate, after research into the three ombuds types. Added a references section behind a divider. |
+| 2b | Eric's edit, Claude's look-over | 2026-09-21 (reopened and reconfirmed same day) | Eight review items applied. Added a paragraph on the ombudsman being neutral, not an advocate, after research into the three ombuds types. Added a references section behind a divider. |
 | 2c | Slice markup | 2026-09-21 | Converts to 7 slices. Alt text cut from 561 to 443 characters. |
 | 2d | Hero 1680x1080 + alt text | 2026-09-21 | 1971 Journal Herald cartoon photographed in the office, cropped to the clipping and caption, padded on the house dark background. Alt text 340 characters. |
 | 2e | SEO | 2026-09-21 | meta_title 57 chars leading with child care, description 154, seven keywords, Article schema to house convention. FAQ section deliberately skipped; internal links dropped as disruptive. |
@@ -28,9 +27,7 @@ re-confirming before 2f.
 
 ## Stale
 
-- 2c slice markup, 2026-09-21: text changed after the office's review. Re-run and re-confirm.
-- 2d hero, 2026-09-21: unchanged in substance, but re-confirm after 2c.
-- 2e SEO, 2026-09-21: subtitle wording changed, so the description should be re-checked.
+None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office's edits.
 
 ## Log
 
@@ -70,3 +67,6 @@ re-confirming before 2f.
   pressure-release-valve framing: complainants go through the official process before
   reaching the ombudsman, so the office does not absorb overflow, it sees unmet need.
   Rewrote that passage accordingly. Step back to 2b; 2c, 2d and 2e marked stale.
+- 2026-09-21 Office edits reconciled. Body matched to their word, currently not now.
+  Publish date set to 2026-09-21 17:00:00-04:00. 2c, 2d, 2e re-run clean and re-confirmed.
+  Step 2f opened.

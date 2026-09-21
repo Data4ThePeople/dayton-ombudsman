@@ -2,12 +2,13 @@
 title: The help desk for people who really need help
 subtitle: Dayton has one of the oldest ombudsman offices in the country, and nearly 30 years of records kept by hand. The number one thing the office currently investigates is child care.
 slug: dayton-ombudsman-child-care
-date: 2026-09-22
+date: 2026-09-21
+time: 17:00:00-04:00
 section: Data 4 Thought
 hero: images/dayton-ombudsman-child-care-hero-1680x1080.png
 hero_alt: A yellowed newspaper cartoon from the Dayton Journal Herald. A knight in armor sits on a tired-looking horse in the middle of a city street. He holds a long lance upright and carries a shield marked with a large letter O. Beside him, a man leans out of a car window and stares. The caption below reads, “Say, isn’t that Dayton’s ombudsman?”
 meta_title: Child care is now the top complaint at Dayton's ombudsman
-description: Dayton has run an ombudsman office since 1971. Its records show child care is now the number one thing it investigates, up from one case in fifty in 2020.
+description: Dayton has run an ombudsman office since 1971. Its records show child care is currently the number one thing it investigates, up from one in fifty in 2020.
 keywords: ombudsman, ombudsman office, Dayton ombudsman, publicly funded child care, Ohio child care subsidy, citizen complaints, Montgomery County Job and Family Services
 schema_type: article
 drop_cap: true
@@ -34,7 +35,7 @@ In short, the ombudsman's office is the help desk for people who really need hel
 
 But the offices that exist toil away to help people each and every day. It turns out I have connections to Dayton's ombudsman office, so I have learned much about its inspirational work over the past few weeks. Dayton opened its office in 1971, one of the first cities and counties in the country to do it. And more importantly for me, it has nearly 30 years of data on the calls it has received, meticulously documented by hand as if it knew one day technology would catch up to its processes, and give it the ability to tell the stories of the Dayton community.
 
-And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: access to child care.
+And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office currently investigates: access to child care.
 
 And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
 
