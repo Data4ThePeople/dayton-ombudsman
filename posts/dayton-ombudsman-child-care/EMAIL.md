@@ -3,8 +3,8 @@
 Post URL: https://www.data4thepeople.com/p/dayton-ombudsman-child-care
 
 ```
-Subject:  Child care is now the #1 complaint
-Preview:  One small office, nearly 30 years of records kept by hand, and one problem rising fast.
+Subject:  Help desk for people who really need it
+Preview:  Nearly 30 years of records kept by hand. Child care is now the top complaint.
 ```
 
 ## 1. Hero
