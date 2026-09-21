@@ -36,6 +36,8 @@ But the offices that exist toil away to help people each and every day. It turns
 
 And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: child care.
 
+And while I was working on this, Child Care Aware of America put out its 2025 price report. The national average price of child care is now $13,184 a year for one child. Set that against the federal poverty line, which in 2026 is $27,320 for a family of three. A family living right at that line, paying full price for one child, would spend 48 percent of everything they have on child care. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.
+
 ![Line chart. Child care as a share of the cases the Dayton ombudsman investigated, 1997 to June 2026. The line stays under 2 percent until 2012, then drifts up. It dips to 1.9 percent in 2020, climbs to 12.0 percent in 2023, and reaches 18.2 percent in the first half of 2026. A second line shows child care as a share of everything that came in, cases and referral calls together. It has the same shape but sits lower, and ends at 8.9 percent.](images/01-child-care-share.png)
 
 *Dayton Ombudsman Office records, 1997 to June 2026, shared with permission. 2026 covers January to June only.*
@@ -68,6 +70,11 @@ On the history, and on how few of these offices there are:
 - [About the Dayton office](http://www.dayton-ombudsman.org/about.html), for its founding in 1971 and its long-term care program
 - [Dayton's ombudsman marks 55 years](https://www.daytondailynews.com/lifestyles/daytons-ombudsman-marks-55-years-of-standing-up-for-citizens-and-its-workload-is-growing/UTUNPMCF45EP7DVCVRFBWMCBEY/), Dayton Daily News
 - [Municipal government ombudsman](https://www.usombudsman.org/municipal-government-ombudsman/), United States Ombudsman Association
+
+On what child care costs:
+
+- [The price of child care in 2025](https://info.childcareaware.org/price-and-supply-2025), Child Care Aware of America, for the $13,184 national average
+- [Poverty guidelines](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines), U.S. Department of Health and Human Services, for the 2026 poverty line of $27,320 for a family of three
 
 On child care in Ohio:
 
