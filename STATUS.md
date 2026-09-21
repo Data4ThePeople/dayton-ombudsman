@@ -54,3 +54,6 @@ None.
 - 2026-09-21 Review copy built two ways: an artifact page and a Word doc generated from
   POST.md by analysis/make_docx.py, since no node, pandoc or LibreOffice on this machine.
 - 2026-09-21 Step 2d confirmed. Step 2e opened.
+- 2026-09-21 A Common questions FAQ section was proposed for rich results and rejected: the
+  office is mid-review and Eric did not want to send new language back to them. Accepted SEO
+  cost.
