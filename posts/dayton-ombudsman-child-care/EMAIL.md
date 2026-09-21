@@ -49,8 +49,6 @@ These are not calls complaining about a daycare. They are calls from people tryi
 It is not hard to see why they need help paying for it. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home.
 
 And this is before the hard part. The One Big Beautiful Bill makes recertification and work requirements much stricter. The process gets more complicated, people can't follow it, and they lose benefits they still qualify for.
-
-There is one more thing I went looking for and could not find, and it is the part of this story that unsettled me most.
 ```
 
 ## 6. Call to action

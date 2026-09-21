@@ -90,3 +90,5 @@ None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office'
   been stitched from post sentences that relied on context the email had cut, so one opened
   by referring to a county agency the email never introduced. Now five short paragraphs,
   one idea each.
+- 2026-09-21 Dropped the teaser's final hook paragraph. It dangled. Part two now ends on
+  the OBBB consequence, which is concrete and does the same job.
