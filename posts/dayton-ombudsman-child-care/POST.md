@@ -22,7 +22,9 @@ Are you familiar with what an ombudsman does?
 
 If you are like me, you may be familiar with the term, but if pressed on exactly what it does, crickets.
 
-There's no shame in that. It's not our fault. Back in 19XX, there were YYYY ombudsman offices across the country. Today there are just ZZZZ offices. In other words, back at their height, YY% of the population lived in cities with an ombudsman. Today, just ZZ% of the population has one.
+There's no shame in that. It's not our fault. I went looking for the numbers, because I wanted to open this piece with them. How many ombudsman offices did this country used to have? How many are left? What share of us still live somewhere with one? I could not find the answers. Hawaii opened the first office in 1967. A few cities followed in 1970 and 1971, Dayton among them. After that the trail goes cold. The U.S. Ombudsman Association, the group these offices belong to, says the number of new ones is small. I found no published count of how many have closed, and no figure for how many people still have one nearby.
+
+That absence is worth sitting with. We count a lot of things in this country. This does not appear to be one of them. An office set up to help people who struggle to be heard has itself gone unmeasured, and in my view those two facts are related.
 
 So what do they do? Think of your ombudsman office (if you are lucky enough to still have one) as the concierge desk for citizens. You know Marriott Bonvoy? Maybe you have gold or platinum status there. And if you do, whenever you have an issue with your reservation, you can call a friendly human being and they will make your problem go away. That's what the ombudsman does. Except they aren't there for people with status dealing with relatively frivolous issues like room upgrades. They are instead fielding calls from people who can't figure out the labyrinth of recertification requirements to keep SNAP benefits, or people who qualify for child care subsidies but can't figure out how to get them, or people whose power has gotten shut off, are living in the dark, and can't get their utility company to talk to them.
 
