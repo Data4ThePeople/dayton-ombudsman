@@ -83,7 +83,7 @@
           },
           {
             "type": "paragraph",
-            "text": "And while I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.",
+            "text": "Meanwhile, as I was working on this, Child Care Aware of America put out its 2025 price report. In Ohio, infant care in a center runs $13,780 a year before any subsidy. That is 40 percent of what a typical single parent in this state takes home. No wonder families need subsidies, and no wonder so many of them end up at the ombudsman's door.",
             "spans": [],
             "direction": "ltr"
           }
@@ -98,8 +98,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "8Lx7RJIkOXFtiOVw",
           "alt": "Line chart. Child care as a share of the cases the Dayton ombudsman investigated, 1997 to June 2026. The line stays under 2 percent until 2012, then drifts up. It dips to 1.9 percent in 2020, climbs to 12.0 percent in 2023, and reaches 18.2 percent in the first half of 2026. A second line shows child care as a share of everything that came in, cases and referral calls together. It has the same shape but sits lower, and ends at 8.9 percent.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1760,
+            "height": 1184
+          }
         },
         "source_text": [
           {
@@ -137,7 +142,7 @@
         "paragraph_text": [
           {
             "type": "paragraph",
-            "text": "Now, to be clear, these are usually not calls complaining about a provider. Rather, these are calls trying to understand how to qualify for subsidies offered by the state. You see, back in 2023 child care subsidies were actually expanded in Ohio. That's a good thing on paper. But when you dig into it, the expansion was very small. It wasn't designed to get to all the people that could technically now qualify. But what it did do (in my view) was likely give people hope that they could qualify. And so, my best reconstruction of what happened was that the Montgomery County Department of Job and Family Services (JFS) was likely inundated with calls. I can't verify this since I don't have their data. But people do not go to the ombudsman instead of JFS. They go after, once the official process has not worked for them.",
+            "text": "Now, to be clear, these are usually not calls complaining about a provider. Rather, these are calls trying to understand how to qualify for subsidies offered by the state. You see, back in 2023 child care subsidies were actually expanded in Ohio. That's a good thing on paper. But when you dig into it, the expansion was very small. It wasn't designed to get to all the people that could technically now qualify. But what it did do (in my view) was likely give people hope that they could qualify. And so, my best reconstruction of what happened was that the Montgomery County Department of Job and Family Services (JFS) was likely inundated with calls. I can't verify this since I don't have their data. But I do have the ombudsman's data. And a rise in calls to the ombudsman is a sign that the official process for getting answers about eligibility isn't working as designed.",
             "spans": [],
             "direction": "ltr"
           },
@@ -496,5 +501,23 @@
       }
     }
   ],
-  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The help desk for people who really need help\",\n  \"description\": \"Dayton has run an ombudsman office since 1971. Its records show child care is currently the number one thing it investigates, up from one in fifty in 2020.\",\n  \"datePublished\": \"2026-09-21T17:00:00-04:00\",\n  \"dateModified\": \"2026-09-21T17:00:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"keywords\": [\n    \"ombudsman\",\n    \"ombudsman office\",\n    \"Dayton ombudsman\",\n    \"publicly funded child care\",\n    \"Ohio child care subsidy\",\n    \"citizen complaints\",\n    \"Montgomery County Job and Family Services\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/dayton-ombudsman-child-care\"\n  }\n}"
+  "featured_image": {
+    "id": "Bg3BiRH9zvD7EBiA",
+    "alt": "A yellowed newspaper cartoon from the Dayton Journal Herald. A knight in armor sits on a tired-looking horse in the middle of a city street. He holds a long lance upright and carries a shield marked with a large letter O. Beside him, a man leans out of a car window and stares. The caption below reads, \u201cSay, isn\u2019t that Dayton\u2019s ombudsman?\u201d",
+    "copyright": null,
+    "dimensions": {
+      "width": 1680,
+      "height": 1080
+    }
+  },
+  "meta_image": {
+    "id": "Bg3BiRH9zvD7EBiA",
+    "alt": "A yellowed newspaper cartoon from the Dayton Journal Herald. A knight in armor sits on a tired-looking horse in the middle of a city street. He holds a long lance upright and carries a shield marked with a large letter O. Beside him, a man leans out of a car window and stares. The caption below reads, \u201cSay, isn\u2019t that Dayton\u2019s ombudsman?\u201d",
+    "copyright": null,
+    "dimensions": {
+      "width": 1680,
+      "height": 1080
+    }
+  },
+  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The help desk for people who really need help\",\n  \"description\": \"Dayton has run an ombudsman office since 1971. Its records show child care is currently the number one thing it investigates, up from one in fifty in 2020.\",\n  \"image\": \"https://images.prismic.io/data4thepeople/Bg3BiRH9zvD7EBiA_dayton-ombudsman-child-care-hero-1680x1080.png?auto=format,compress\",\n  \"datePublished\": \"2026-09-21T17:00:00-04:00\",\n  \"dateModified\": \"2026-09-21T17:00:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"keywords\": [\n    \"ombudsman\",\n    \"ombudsman office\",\n    \"Dayton ombudsman\",\n    \"publicly funded child care\",\n    \"Ohio child care subsidy\",\n    \"citizen complaints\",\n    \"Montgomery County Job and Family Services\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/dayton-ombudsman-child-care\"\n  }\n}"
 }

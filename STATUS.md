@@ -73,3 +73,6 @@ None. 2c, 2d and 2e were re-run and re-confirmed on 2026-09-21 after the office'
 - 2026-09-21 Step 2f done. Pushed to Prismic: draft arGYrREAACsAKuFq in the Migration
   Release, 7 slices, hero and chart uploaded. Not live; publishing from the release is
   Eric's step in Prismic. Step 2g opened.
+- 2026-09-21 Eric revised two paragraphs after the push. JFS paragraph now pivots on "I do
+  have the ombudsman's data"; cost paragraph opens "Meanwhile". 2c, 2d, 2e re-run clean and
+  the same draft arGYrREAACsAKuFq was updated in place, not duplicated.
