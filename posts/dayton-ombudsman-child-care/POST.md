@@ -6,9 +6,9 @@ date: 2026-09-22
 section: Data 4 Thought
 hero: images/dayton-ombudsman-child-care-hero-1680x1080.png
 hero_alt: A yellowed newspaper cartoon from the Dayton Journal Herald. A knight in armor sits on a tired-looking horse in the middle of a city street. He holds a long lance upright and carries a shield marked with a large letter O. Beside him, a man leans out of a car window and stares. The caption below reads, “Say, isn’t that Dayton’s ombudsman?”
-meta_title:
-description:
-keywords:
+meta_title: What an ombudsman does, and how few cities still have one
+description: Dayton has run an ombudsman office since 1971. Its records show child care is now the number one thing it investigates, up from one case in fifty in 2020.
+keywords: ombudsman, ombudsman office, Dayton ombudsman, publicly funded child care, Ohio child care subsidy, citizen complaints, Montgomery County Job and Family Services
 schema_type: article
 drop_cap: true
 heading_spacer: 20px

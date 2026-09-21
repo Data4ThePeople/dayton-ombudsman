@@ -3,6 +3,9 @@
   "page_subtitle": "Dayton has one of the oldest ombudsman offices in the country, and nearly 30 years of records kept by hand. The number one thing the office now investigates is child care.",
   "published_date": "2026-09-22",
   "updated_date": "2026-09-22",
+  "meta_title": "What an ombudsman does, and how few cities still have one",
+  "meta_description": "Dayton has run an ombudsman office since 1971. Its records show child care is now the number one thing it investigates, up from one case in fifty in 2020.",
+  "meta_keywords": "ombudsman, ombudsman office, Dayton ombudsman, publicly funded child care, Ohio child care subsidy, citizen complaints, Montgomery County Job and Family Services",
   "make_this_main_post": false,
   "slices": [
     {
@@ -493,5 +496,5 @@
       }
     }
   ],
-  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The help desk for people who really need help\",\n  \"description\": \"\",\n  \"datePublished\": \"2026-09-22T07:00:00-04:00\",\n  \"dateModified\": \"2026-09-22T07:00:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/dayton-ombudsman-child-care\"\n  }\n}"
+  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The help desk for people who really need help\",\n  \"description\": \"Dayton has run an ombudsman office since 1971. Its records show child care is now the number one thing it investigates, up from one case in fifty in 2020.\",\n  \"datePublished\": \"2026-09-22T07:00:00-04:00\",\n  \"dateModified\": \"2026-09-22T07:00:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"keywords\": [\n    \"ombudsman\",\n    \"ombudsman office\",\n    \"Dayton ombudsman\",\n    \"publicly funded child care\",\n    \"Ohio child care subsidy\",\n    \"citizen complaints\",\n    \"Montgomery County Job and Family Services\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/dayton-ombudsman-child-care\"\n  }\n}"
 }
