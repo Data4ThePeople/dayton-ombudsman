@@ -30,11 +30,11 @@ So what does an ombudsman office do? Think of your ombudsman office (if you have
 
 One difference from the concierge desk. The ombudsman is neutral. They are not by definition on your side, they are on the side of a fair process, and when they look into a complaint and find the agency did nothing wrong, they say so. In Dayton that happens about four times in ten.
 
-In other words, the ombudsman's office is the help desk for people who really need help. And the fact that these offices live in obscurity is likely because these people who are really struggling to navigate the complexity of social benefits programs also live in obscurity.
+In short, the ombudsman's office is the help desk for people who really need help. And the fact that these offices live in obscurity is likely because these people who are really struggling to navigate the complexity of social benefits programs also live in obscurity.
 
 But the offices that exist toil away to help people each and every day. It turns out I have connections to Dayton's ombudsman office, so I have learned much about its inspirational work over the past few weeks. Dayton opened its office in 1971, one of the first cities in the country to do it. And more importantly for me, it has nearly 30 years of data on the calls it has received, meticulously documented by hand as if it knew one day technology would catch up to its processes, and give it the ability to tell the stories of the Dayton community.
 
-And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. The #1 thing the office now investigates is child care.
+And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. Why? Because I have posted more than 80 times on Data 4 The People in the past nine months, and none have been on the #1 thing the office now investigates: child care.
 
 ![Line chart. Child care as a share of the cases the Dayton ombudsman investigated, 1997 to June 2026. The line stays under 2 percent until 2012, then drifts up. It dips to 1.9 percent in 2020, climbs to 12.0 percent in 2023, and reaches 18.2 percent in the first half of 2026. A second line shows child care as a share of everything that came in, cases and referral calls together. It has the same shape but sits lower, and ends at 8.9 percent.](images/01-child-care-share.png)
 
