@@ -5,8 +5,8 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 
 ## Current
 
-Post: pending slug
-Step: 2a
+Post: dayton-ombudsman-child-care
+Step: 2b
 Since: 2026-09-21
 
 ## Steps
@@ -14,7 +14,7 @@ Since: 2026-09-21
 | Step | What | Confirmed | Notes |
 |---|---|---|---|
 | 1  | Exploration and analysis | 2026-09-21 | One chart: child care share of cases and of all records, 1997–2026. DATASETS.md and the source coverage check were not run; Eric scoped step 1 to the single chart. |
-| 2a | Draft with brackets resolved | | |
+| 2a | Draft with brackets resolved | 2026-09-21 | Chart placed. Ohio expansion year filled in. Opening redrafted around the missing count of ombudsman offices. Edits 1-6 accepted. Budget line rewritten in plain language. Closing ask cut. |
 | 2b | Eric's edit, Claude's look-over | | |
 | 2c | Slice markup | | |
 | 2d | Hero 1680x1080 + alt text | | |
@@ -37,3 +37,9 @@ None.
   category rows, which drops withheld counts. Using the office's published monthly
   totals: 18.2% of cases in 2026 H1 and 17.0% in 2025, not 22.6% and 19.3%.
 - 2026-09-21 Step 1 confirmed. Step 2a opened.
+- 2026-09-21 Ombudsman office counts could not be sourced; the opening was redrafted so
+  the absence of a published count is the point. Founding claim corrected: Dayton opened
+  in 1971, no ranking, since Jamestown NY and Seattle both predate it.
+- 2026-09-21 County administration funding traced only through FY2025 (rose into FY2024,
+  flat in FY2025). FY2026-27 line item not found. The post claims no more than that.
+- 2026-09-21 Step 2a confirmed. Step 2b opened.

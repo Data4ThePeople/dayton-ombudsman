@@ -44,4 +44,4 @@ This is quite concerning given what is now coming. Last year, the One Big Beauti
 
 And who is able to offer assistance to these people? The ombudsman.
 
-To be fair, the child care data I showed above is a small quantity of data. Though old, our ombudsman's office is small, likely because people don't know it exists. But as the OBBB fully takes hold, and the complications it causes cascade through state departments that are beyond stretched thin, that will change.
+To be fair, the child care data I showed above is a small quantity of data. Though old, our ombudsman's office is small, likely because people don't know it exists. But as the OBBB fully takes hold, and the complications it causes cascade through state departments that are beyond stretched thin, that will likely change.
