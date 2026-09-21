@@ -28,7 +28,7 @@ That absence is worth sitting with. We count a lot of things in this country. Th
 
 So what does an ombudsman office do? Think of your ombudsman office (if you have one) as the concierge desk for citizens. You know Marriott Bonvoy? Maybe you have gold or platinum status there. And if you do, whenever you have an issue with your reservation, you can call a friendly human being and they will make your problem go away. That's what the ombudsman does. Except they aren't there for people with status dealing with relatively frivolous issues like room upgrades. They are instead fielding calls from people who can't figure out the labyrinth of recertification requirements to keep SNAP benefits, or people who qualify for child care subsidies but can't figure out how to get them, or people whose power has gotten shut off, are living in the dark, and can't get their utility company to talk to them.
 
-One difference from the concierge desk. The ombudsman is neutral. They are not on your side, they are on the side of a fair process, and when they look into a complaint and find the agency did nothing wrong, they say so. In Dayton that happens about four times in ten.
+One difference from the concierge desk. The ombudsman is neutral. They are not by definition on your side, they are on the side of a fair process, and when they look into a complaint and find the agency did nothing wrong, they say so. In Dayton that happens about four times in ten.
 
 In other words, the ombudsman's office is the help desk for people who really need help. And the fact that these offices live in obscurity is likely because these people who are really struggling to navigate the complexity of social benefits programs also live in obscurity.
 
@@ -36,7 +36,7 @@ But the offices that exist toil away to help people each and every day. It turns
 
 And so, with permission from the office, I analyzed their data. And what I found was a slap in the face. The #1 thing the office now investigates is child care.
 
-![Line chart titled "Child care is now about one in five of the complaints the Dayton ombudsman investigates, up from one in fifty in 2020." Two lines run from 1997 to June 2026. Child care as a share of cases the office investigated stays under 2 percent until 2012, drifts up through the 2010s, dips to 1.9 percent in 2020, then climbs sharply to 12.0 percent in 2023 and 18.2 percent in the first half of 2026. Child care as a share of everything that came in, cases and referral calls together, follows the same shape at a lower level and ends at 8.9 percent.](images/01-child-care-share.png)
+![Line chart. Child care as a share of the cases the Dayton ombudsman investigated, 1997 to June 2026. The line stays under 2 percent until 2012, then drifts up. It dips to 1.9 percent in 2020, climbs to 12.0 percent in 2023, and reaches 18.2 percent in the first half of 2026. A second line shows child care as a share of everything that came in, cases and referral calls together. It has the same shape but sits lower, and ends at 8.9 percent.](images/01-child-care-share.png)
 
 *Dayton Ombudsman Office records, 1997 to June 2026, shared with permission. 2026 covers January to June only.*
 
